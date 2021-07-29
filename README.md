@@ -7,7 +7,7 @@ Collecting, organizing and storing tribes route packages.
 - [x] JPs Easy Pathfinder GOTY Routes
 - [x] JackTheBlacks Incidamus GOTY Routes
 - [ ] JackTheBlacks Blues GOTY Routes
-- [ ] JackTheBlacks Periculo GOTY Routes (to be added)
+- [ ] JackTheBlacks Periculo GOTY Routes
 
 ## Complete maps
 
@@ -32,7 +32,7 @@ Collecting, organizing and storing tribes route packages.
 | Temple Ruins              | &#9744; | &check; |
 | Terminus                  | &check; | &#9744; |
 | Incidamus                 | &check; | &check; |
-| Periculo                  | &#9744; | &#9744; |
+| Periculo                  | &check; | &check; |
 | Blues                     | &check; | &check; |
 
 ### Requirements
