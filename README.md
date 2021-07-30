@@ -1,13 +1,13 @@
 # TribesRoutes
 Collecting, organizing and storing tribes route packages.
 
-## Route files that have been checked
+## Route files that have been checked and are ready to uploaded
 - [x] TAMods OOTB Routes
 - [x] JPs Pathfinder + Soldier GOTY Routes
 - [x] JPs Easy Pathfinder GOTY Routes
 - [x] JackTheBlacks Incidamus GOTY Routes
-- [ ] JackTheBlacks Blues GOTY Routes
-- [ ] JackTheBlacks Periculo GOTY Routes
+- [ ] JackTheBlacks Blues GOTY Routes (checked but 2 issues found, needs to be fixed before update is pushed)
+- [x] JackTheBlacks Periculo GOTY Routes
 
 ## Complete maps
 
