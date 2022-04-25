@@ -8,6 +8,7 @@ Collecting, organizing and storing tribes route packages.
 - [x] JackTheBlacks Incidamus GOTY Routes
 - [ ] JackTheBlacks Blues GOTY Routes (checked but 2 issues found, needs to be fixed before update is pushed)
 - [x] JackTheBlacks Periculo GOTY Routes
+- [x] Soninovas GOTY Routes
 
 ## Complete maps
 
@@ -34,6 +35,11 @@ Collecting, organizing and storing tribes route packages.
 | Incidamus                 | &check; | &check; |
 | Periculo                  | &check; | &check; |
 | Blues                     | &check; | &check; |
+| Fracture                  | &check; | &check; |
+| Phlegathon                | &check; | &check; |
+| Deserted Valley           | &#9744; | &#9744; |
+| Acheron                   | &#9744; | &#9744; |
+| Styx                      | &#9744; | &#9744; |
 
 ### Requirements
 Both sides, at least GOTY Pathfinder or OOTB Light class. 2 different flagstance entrances at a minimum, 3 being ideal.
